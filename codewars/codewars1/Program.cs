@@ -8,7 +8,7 @@ namespace codewars1
     {
         static void Main(string[] args)
         {
-
+            Console.WriteLine("time time time");
             //Console.WriteLine(AreTheySame.comp(new int[] { 121, 16, 144, 19, 161, 19, 144, 19, 11, 16, 5 },
             //                                    new int[] { 121, 14641, 20736, 361, 25921, 361, 20736, 361, 16*16, 16*16, 36}));
             //Console.WriteLine(Math.Pow(2, 31));

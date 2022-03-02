@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fKr8aaKsizDjkEdOcesYtGZuX7z6EBafDeIABqYaTTQQ8saCcspAjWBzQ4FELWPzoo5nEG13VmJWpM2Aen+xZQ==",
+  "dgSpecHash": "KSJF9oyqL0YXQ8dnD9cXK1OenUD+AUmz3otGuVhAYpqMTKnviklHJ6J1ylSUyXv8C1Yb6sBsTsGMDD7VEmuGJA==",
   "success": true,
-  "projectFilePath": "D:\\vs projects\\codewars\\codewars1\\codewars1.csproj",
+  "projectFilePath": "D:\\vs projects\\codewars_git_repo\\codewars\\codewars1\\codewars1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Zly_admin.000\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\Zly_admin.000\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
