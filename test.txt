@@ -1,3 +1,6 @@
 # hihi
 
-blabla	
+blabl
+
+# linia po pierwszym commit
+zxxxxx
