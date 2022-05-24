@@ -8,7 +8,21 @@ namespace codewars1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("time time time");
+
+            //Console.WriteLine(PrizeDraw.NthRank("Tauk,Kaut", new int[] { 4, 2, 1, 4, 3, 1, 2 }, 8));
+            //Console.WriteLine(Maximum_subarray_sum.MaxSequence(new
+            //int[] { -2, 1, -3, 4, -1, 2, 1, -5, 4 }));
+            //Console.WriteLine(Number_of_People_in_the_Bus.Number(new List<int[]>() { new[] { 10, 0 }, new[] { 3, 5 }, new[] { 5, 8 }));
+            //Console.WriteLine(Backspacee.CleanString("abc####d##c#"));
+            //Console.WriteLine(ValidPhoneNumber.ValiddPhoneNumber(" (123) 000-7890 "));
+            //Console.WriteLine(JohnMeeting.Meeting("Alexis:Wahl;John:Bell;Victoria:Schwarz;Abba:Dorny;Grace:Meta;Ann:Arno;Madison:STAN;Alex:Cornwell;Lewis:Kern;Megan:Stan;Alex:Korn"));
+            //Console.WriteLine(CamellCase.CamelCase(" camel case word"));
+            //Console.WriteLine(RevRott.RevRot("66443875000", 4));
+            //Console.WriteLine(Two_sum.TwoSum(new[] { 2, 2, 3 }, 4).OrderBy(a => a).ToArray());
+            //Console.WriteLine(GoodVsEvill.GoodVsEvil("0 0 0 0 0 10", "0 1 1 1 1 0 0"));
+            //Console.WriteLine(ToWeirdCase.WeirdCase("CvDvPo KrRoXwNcLpVaY CsFbVe Hr"));
+            //Console.WriteLine(Count_characters_in_your_string.Count("bdjasnljdfasnvuzxnvlyuisnkjdsaaaa"));
+            //Console.WriteLine(breakCamel.BreakCamelCase("camelCase"));
             //Console.WriteLine(AreTheySame.comp(new int[] { 121, 16, 144, 19, 161, 19, 144, 19, 11, 16, 5 },
             //                                    new int[] { 121, 14641, 20736, 361, 25921, 361, 20736, 361, 16*16, 16*16, 36}));
             //Console.WriteLine(Math.Pow(2, 31));
