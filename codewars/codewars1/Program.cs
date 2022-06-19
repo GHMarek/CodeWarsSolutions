@@ -12,6 +12,15 @@ namespace codewars1
             // Most recent katas solutions, which are classes within this project, are called
             // from Console.WriteLine() to instantly print results for verification.
             ///
+            //Console.WriteLine(Justify.JustifySln("123 45 6", 7)); //23
+            Console.WriteLine(Justify.JustifySln("Lorem ipsum dolor sit amet, consectetur adipiscing elit," +
+                " sed do eiusmod tempor incididunt ut labore et dolore magna aliqua." +
+                " Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris" +
+                " nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor" +
+                " in reprehenderit in voluptate velit esse cillum dolore eu fugiat" +
+                " nulla pariatur. Excepteur sint occaecat cupidatat non proident," +
+                " sunt in culpa qui officia deserunt mollit anim id est laborum."
+                , 30)); //23
 
             //Console.WriteLine(PrizeDraw.NthRank("Tauk,Kaut", new int[] { 4, 2, 1, 4, 3, 1, 2 }, 8));
             //Console.WriteLine(Maximum_subarray_sum.MaxSequence(new
