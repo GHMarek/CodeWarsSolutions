@@ -8,6 +8,10 @@ namespace codewars1
     {
         static void Main(string[] args)
         {
+            ///
+            // Most recent katas solutions, which are classes within this project, are called
+            // from Console.WriteLine() to instantly print results for verification.
+            ///
 
             //Console.WriteLine(PrizeDraw.NthRank("Tauk,Kaut", new int[] { 4, 2, 1, 4, 3, 1, 2 }, 8));
             //Console.WriteLine(Maximum_subarray_sum.MaxSequence(new
@@ -112,15 +116,11 @@ namespace codewars1
 
             //Console.WriteLine(DecTools.Digits(6667).ToString());
 
-            // kata 9
-            // shortest words
 
             //string str = "bitcoin take over the world maybe who knows perhaps";
             //ShortestWord.FindShort(str);
             //Console.WriteLine(ShortestWord.FindShort(str));
 
-            // kata 8
-            // binary translator
 
             //int[] ints = {0, 0, 0, 1};
 
@@ -137,17 +137,11 @@ namespace codewars1
             //Console.WriteLine(dice);
             //Console.WriteLine(greedIsGood.Score(dice)); 
 
-            // kata 6
-            // build tower n^floors
-
             //foreach (var item in buildTower.TowerBuilder(5))
             //{
             //    Console.WriteLine(item);
             //}
 
-
-            // kata 5
-            // usuwa najmniejsza liczbe z listy i zwraca taka sama liste
 
             //List<int> intList = new List<int> { 3, 4, 1, 5, 7, 8, 1, 1};
             //List<int> newList2 = museumDullThings.RemoveSmallest(intList);
@@ -168,9 +162,6 @@ namespace codewars1
             //Console.WriteLine(_10minWalk.IsValidWalk(str) ? "true" : "false");
 
 
-            // kata 3, isogram
-            // sprawdz, czy wyraz ma jedynie unikalne litery
-
             //if (isogram.IsIsogram("moOse") == true) 
             //{
             //    Console.WriteLine("true");
@@ -179,9 +170,6 @@ namespace codewars1
             //{
             //    Console.WriteLine("false");
             //}
-
-
-            // kata 2, logical calculator
 
             //bool[] array = { true, true, true, false };
             //string op = "XOR";
@@ -195,7 +183,6 @@ namespace codewars1
 
             //Console.WriteLine(logicalCalc.LogicalCalc(array, op));
 
-            // kata 1, divstr
             //Console.WriteLine("Hello World!");
             //string[] temp = DivideStr.DivS("wozu");
 
